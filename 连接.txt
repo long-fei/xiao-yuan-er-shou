@@ -1,0 +1,4 @@
+https://cdn.jsdelivr.net/gh/long-fei/xiao-yuan-er-shou/bootstrap-switch.min.css
+https://cdn.jsdelivr.net/gh/long-fei/xiao-yuan-er-shou/bootstrap.min.css
+https://cdn.jsdelivr.net/gh/long-fei/xiao-yuan-er-shou/components.min.css
+https://cdn.jsdelivr.net/gh/long-fei/xiao-yuan-er-shou/plugins.min.css
